@@ -15,7 +15,7 @@ const App = () => {
       </GridItem>
       <Show above='lg'>
       <GridItem area={"side"} >
-      
+      side panel
       </GridItem>
       </Show>
       <GridItem area={"main"} >
